@@ -1,0 +1,36 @@
+h1{
+	text-align: center;
+	color: red;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 1260px;
+}
+.left{
+	margin: 0 10px;
+	float: left;
+	width: 400px;
+	height: 700px;
+}
+.middle{
+	margin: 0 10px;
+	float: left;
+	width: 400px;
+	height: 700px;
+}
+.right{
+	margin: 0 10px;
+	float: left;
+	width: 400px;
+	height: 700px;
+}
+.pic1{
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+.pic1{
+	float: right;
+	width: 150px;
+	height: 150px;
+}

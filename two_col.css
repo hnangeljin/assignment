@@ -1,0 +1,53 @@
+.wrapper{
+	width: 100%;
+	margin: 0 20px;
+}
+.bar{
+	width: 200px;
+	border: 1px solid;
+	float: left;
+	background-color: #FF9933;
+}
+.main{
+	margin-left: 210px;
+	float: left;
+}
+.box{
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border: 1px solid;
+	margin: 170px 30px 30px 30px;
+}
+.button{
+	width: 100px;
+	height: 100px;
+}
+.pic{
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+h1{
+	text-align: center;
+}
+body{
+	margin:0px;
+}
+nav{
+	margin: 0px;
+	height: 900px;
+	position: fixed;
+	background-color: ligredhtblue;
+}
+h3{
+	text-align: center;
+}
+ul{
+	margin: 0px;
+	list-style: none;
+}
+p{
+	width: 80%;
+	margin: 20px 20px;
+}
